@@ -37,7 +37,7 @@ class Testsample():
         global passWord
         global userID
         driver.find_element_by_xpath("//a[text()='here']").click()
-        driver.find_element_by_xpath("//input[@name='emailid']").send_keys( "thong4333@test.com")
+        driver.find_element_by_xpath("//input[@name='emailid']").send_keys("thong4333@test.com")
         driver.find_element_by_xpath("//input[@name='emailid']").send_keys(Keys.ENTER)
         userID = driver.find_element_by_xpath("//td[text()='User ID :']//following-sibling::td").text
         passWord = driver.find_element_by_xpath("//td[text()='Password :']//following-sibling::td").text

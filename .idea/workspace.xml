@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fd9c02-9fa1-4a60-8b43-4c7914a70446" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demoGuRu_OOP_Level1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoGuRu_OOP_Level1/functions_Support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoGuRu_OOP_Level1/interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoGuRu_OOP_Level1/testcase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoguru.py" beforeDir="false" afterPath="$PROJECT_DIR$/demoguru.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoguru.py" beforeDir="false" afterPath="$PROJECT_DIR$/demoGuRuStepByStep/demoguru.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,12 +16,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demoguru.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demoGuRu_OOP_Level1/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demoGuRu_OOP_Level1/functions_Support.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="170" column="79" selection-start-line="170" selection-start-column="79" selection-end-line="170" selection-end-column="79" />
+            <state relative-caret-position="75">
+              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demoGuRu_OOP_Level1/testcase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demoGuRu_OOP_Level1/interface.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demoGuRuStepByStep/demoguru.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -47,15 +85,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/lib/demoInhenritance.py" />
         <option value="$PROJECT_DIR$/demoguru.py" />
+        <option value="$PROJECT_DIR$/demoInhenritance.py" />
+        <option value="$PROJECT_DIR$/demoGuRu_OOP_Level1/testGit.py" />
+        <option value="$PROJECT_DIR$/demoGuRu_OOP_Level1/interface.py" />
+        <option value="$PROJECT_DIR$/demoGuRuStepByStep/demoguru.py" />
+        <option value="$PROJECT_DIR$/demoGuRuStepByStep/demoInhenritance.py" />
+        <option value="$PROJECT_DIR$/demoGuRu_OOP_Level1/functions_Support.py" />
+        <option value="$PROJECT_DIR$/demoGuRu_OOP_Level1/__init__.py" />
+        <option value="$PROJECT_DIR$/demoGuRu_OOP_Level1/testcase.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="105" />
-    <option name="y" value="33" />
-    <option name="width" value="1097" />
-    <option name="height" value="751" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -63,7 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -74,16 +118,47 @@
             <path>
               <item name="demopytest" type="b2602c69:ProjectViewProjectNode" />
               <item name="demopytest" type="462c0819:PsiDirectoryNode" />
-              <item name=".pytest_cache" type="462c0819:PsiDirectoryNode" />
+              <item name="demoGuRu_OOP_Level1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demopytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demopytest" type="462c0819:PsiDirectoryNode" />
+              <item name="demoGuRuStepByStep" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demopytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demopytest" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demopytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demopytest" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demopytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demopytest" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demoGuRuStepByStep" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -98,19 +173,19 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="demoguru" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="testcase" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="demopytest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demoGuRu_OOP_Level1" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoguru.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoGuRu_OOP_Level1/testcase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,11 +194,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.demoguru" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -139,34 +209,62 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="2" y="11" width="1436" height="878" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14799154" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22190812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Python Console" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5003524" side_tool="true" weight="0.23493975" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4989429" visible="true" weight="0.32409638" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4982382" weight="0.32409638" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" x="19" y="481" width="1419" height="340" id="Terminal" order="10" sideWeight="0.5010571" side_tool="true" visible="true" weight="0.32409638" />
+      <window_info anchor="bottom" x="19" y="481" width="1419" height="340" id="Terminal" order="10" sideWeight="0.5017618" side_tool="true" weight="0.6621287" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demoguru.py">
+    <entry file="file://$PROJECT_DIR$/demoGuRu_OOP_Level1/testGit.py" />
+    <entry file="file://$PROJECT_DIR$/demoGuRuStepByStep/demoInhenritance.py" />
+    <entry file="file://$PROJECT_DIR$/demoGuRu_OOP_Level1/interface.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoGuRuStepByStep/demoguru.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="170" column="79" selection-start-line="170" selection-start-column="79" selection-end-line="170" selection-end-column="79" />
+        <state relative-caret-position="345">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoGuRu_OOP_Level1/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoGuRu_OOP_Level1/functions_Support.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoGuRu_OOP_Level1/testcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
